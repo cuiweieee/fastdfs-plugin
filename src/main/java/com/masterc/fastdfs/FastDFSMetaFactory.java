@@ -1,4 +1,4 @@
-package com.infoland.fastdfs;
+package com.masterc.fastdfs;
 
 import java.util.ArrayList;
 import java.util.List;

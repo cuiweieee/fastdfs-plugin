@@ -1,4 +1,4 @@
-package com.infoland.fastdfs;
+package com.masterc.fastdfs;
 
 import com.jfinal.plugin.IPlugin;
 

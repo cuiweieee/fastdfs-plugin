@@ -1,4 +1,4 @@
-package com.infoland.fastdfs;
+package com.masterc.fastdfs;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
